@@ -7,7 +7,8 @@ Tool used : Tableau & Canva
 # Revenue Model
 BigBasket relies on a small margin added before selling, heavily leaning on private labels like Fresho and BB Royal for sustainability.
 
-# Analyzing discounts across categories, BigBasket employs varied strategies. On average, BigBasket is offering:
+# Analyzing discounts across categories, BigBasket employs varied strategies
+On average, BigBasket is offering:
 Highest Discount: "Kitchen, Garden & Pets" (22%) and "Fruits & Vegetables" (21%). Higher competition, no added costs/middlemen, or products with a shorter shelf life may influence these significant discounts.
 Lowest Discount: Baby Care (6%) & Snacks & Branded Foods (7%). Indicates a premium position or brand loyalty, allowing them to maintain prices without the need for significant discounts.
 
