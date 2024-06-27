@@ -14,4 +14,4 @@ Lowest Discount: Baby Care (6%) & Snacks & Branded Foods (7%). Indicates a premi
 
 ![BB_DiscDynamics](https://github.com/Ananyad7/BigBasket-s-discounting-dynamics-/assets/164981636/4f7fe0ba-05c6-4756-bc27-d0e076038985)
 
-Linkedin Link: https://www.linkedin.com/posts/7ananyadas_visualization-tableau-tableau-activity-7159202075346677761-OUiJ?utm_source=share&utm_medium=member_desktop
+Linkedin Link: <a href="https://www.linkedin.com/posts/7ananyadas_visualization-tableau-tableau-activity-7159202075346677761-OUiJ?utm_source=share&utm_medium=member_desktop" target="_blank">Link</a>
